@@ -1,0 +1,4 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="73" y="40" width="160" height="160" fill="brown" />
+    <text x="100" y="150" fill="yellow">now</text>
+    </svg>

@@ -33,3 +33,6 @@ Note: There might be a slight centering issue with the words within the SVG shap
 Run the following command:
 
 npm test
+
+## Repo and Video
+Github repo - https://github.com/lafrefre/NewNewSvgGen
