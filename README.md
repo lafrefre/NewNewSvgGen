@@ -36,3 +36,5 @@ npm test
 
 ## Repo and Video
 Github repo - https://github.com/lafrefre/NewNewSvgGen
+
+Video - file:///Users/mirandamendoza/Desktop/Untitled_%20Nov%209,%202023%2011_15%20PM.webm 
